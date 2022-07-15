@@ -1,6 +1,6 @@
 .img {
 display: flex;
-background-image: url(/bangkok.jpeg);
+background-image: url(bangkok.jpeg);
 width: 100%;
 height: 100%;
 justify-content: center;
@@ -11,7 +11,7 @@ img {
 }
 
 .clock {
-    background-image: url(/clock.png);
+    background-image: url(clock.png);
     background-color: white;
     opacity: 50%;
     height: 600px;
